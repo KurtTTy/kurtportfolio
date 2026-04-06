@@ -53,7 +53,7 @@ export const SKILL_CATEGORIES = [
   { icon: BotIcon,  title: "AI Tools",          skills: ["Python", "TensorFlow", "PyTorch", "OpenAI", "Claude.Ai"], wide: true },
 ];
 
-export const TOOLS = ["Git", "GitHub", "Docker", "Linux", "VS Code", "Postman", "Figma"];
+export const TOOLS = ["Git", "GitHub", "Docker", "Linux", "VS Code", "Figma"];
 
 // ─── Projects ─────────────────────────────────────────────────────────────────
 //
